@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "92df5926-3ccc-4f0a-b195-b8f4b19b89dc",
+    "name": "PAPU_MONO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b50e0136-0b57-3669-b947-695799b820b6",
+    "name": "PAPU_MONO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
